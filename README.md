@@ -1,3 +1,3 @@
-cześć 
-jestem pyteegg a to mój github
+hi
+i am Pyteegg and this is my github
 
